@@ -1,4 +1,4 @@
-module github.com/secondtruth/go-api-gateway
+module github.com/open-webtech/go-api-gateway
 
 go 1.21.0
 

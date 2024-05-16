@@ -15,7 +15,7 @@ This project is still under development, and more features are planned for the f
 
 To install `go-api-gateway`, use the following command:
 
-    go get -u github.com/secondtruth/go-api-gateway
+    go get -u github.com/open-webtech/go-api-gateway
 
 ## Usage
 
@@ -34,9 +34,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/secondtruth/go-api-gateway/auth"
-	"github.com/secondtruth/go-api-gateway/response/format"
-	"github.com/secondtruth/go-api-gateway/gateway"
+	"github.com/open-webtech/go-api-gateway/auth"
+	"github.com/open-webtech/go-api-gateway/response/format"
+	"github.com/open-webtech/go-api-gateway/gateway"
 )
 
 func main() {

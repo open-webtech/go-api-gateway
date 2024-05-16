@@ -1,8 +1,8 @@
 package services
 
 import (
-	"github.com/secondtruth/go-api-gateway/logging"
-	"github.com/secondtruth/go-api-gateway/response"
+	"github.com/open-webtech/go-api-gateway/logging"
+	"github.com/open-webtech/go-api-gateway/response"
 )
 
 // Context represents the service context, which is used to pass around common service dependencies.

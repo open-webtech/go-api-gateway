@@ -3,7 +3,7 @@ package response
 import (
 	"net/http"
 
-	"github.com/secondtruth/go-api-gateway/response/format"
+	"github.com/open-webtech/go-api-gateway/response/format"
 )
 
 // HttpResponder represents the component that sends HTTP messages in response to client requests
@@ -16,7 +16,7 @@ type HttpResponder interface {
 
 	// SendMsg writes a message with an optional caption to the response body
 	SendMsg(w http.ResponseWriter, text, caption string, code int) error
-	
+
 	// SendData writes a data object to the response body
 	SendData(w http.ResponseWriter, data any) error
 

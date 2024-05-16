@@ -4,8 +4,8 @@ import (
 	"net/http"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/secondtruth/go-api-gateway/handlers"
-	"github.com/secondtruth/go-api-gateway/services"
+	"github.com/open-webtech/go-api-gateway/handlers"
+	"github.com/open-webtech/go-api-gateway/services"
 	reverseproxy "github.com/secondtruth/go-reverse-proxy"
 )
 

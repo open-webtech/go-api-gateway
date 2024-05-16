@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/secondtruth/go-api-gateway/services"
 	"github.com/julienschmidt/httprouter"
+	"github.com/open-webtech/go-api-gateway/services"
 )
 
 // Router creates a new HTTP router instance

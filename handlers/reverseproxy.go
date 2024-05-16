@@ -3,7 +3,7 @@ package handlers
 import (
 	"net/http"
 
-	"github.com/secondtruth/go-api-gateway/services"
+	"github.com/open-webtech/go-api-gateway/services"
 	reverseproxy "github.com/secondtruth/go-reverse-proxy"
 )
 

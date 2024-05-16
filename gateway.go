@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/secondtruth/go-api-gateway/logging"
-	"github.com/secondtruth/go-api-gateway/response"
-	"github.com/secondtruth/go-api-gateway/services"
+	"github.com/open-webtech/go-api-gateway/logging"
+	"github.com/open-webtech/go-api-gateway/response"
+	"github.com/open-webtech/go-api-gateway/services"
 )
 
 // Gateway represents an API gateway that routes incoming requests to different handlers based on the host.

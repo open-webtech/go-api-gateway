@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/secondtruth/go-api-gateway/response/format"
+	"github.com/open-webtech/go-api-gateway/response/format"
 )
 
 // GenericResponder is the default implementation of the HttpResponder interface
