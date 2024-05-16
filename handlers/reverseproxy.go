@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/open-webtech/go-api-gateway/services"
-	reverseproxy "github.com/secondtruth/go-reverse-proxy"
+	reverseproxy "github.com/open-webtech/go-reverse-proxy"
 )
 
 // ReverseProxy creates a new reverse proxy instance

@@ -6,7 +6,7 @@ import (
 	"github.com/julienschmidt/httprouter"
 	"github.com/open-webtech/go-api-gateway/handlers"
 	"github.com/open-webtech/go-api-gateway/services"
-	reverseproxy "github.com/secondtruth/go-reverse-proxy"
+	reverseproxy "github.com/open-webtech/go-reverse-proxy"
 )
 
 // HandlerFactory creates HTTP handlers preconfigured using the service context and other configuration options.
