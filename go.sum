@@ -4,6 +4,8 @@ github.com/haoxins/rewrite v0.1.0 h1:V8hFBHQpY+kdthYkVbcj0Z2zF7QQuWGr8UD+4MTltec
 github.com/haoxins/rewrite v0.1.0/go.mod h1:7KnUJVm4NBix7ya2KxkTvrAtqzie4cHMNjEYguf3Glw=
 github.com/julienschmidt/httprouter v1.3.0 h1:U0609e9tgbseu3rBINet9P48AI/D3oJs4dN7jwJOQ1U=
 github.com/julienschmidt/httprouter v1.3.0/go.mod h1:JR6WtHb+2LUe8TCKY3cZOxFyyO8IZAc4RVcycCCAKdM=
+github.com/open-webtech/go-load-balancer v0.0.0-20240515225140-152d0399bc3b h1:lGM5ts8vJucsiBFR2Ew9Eu+bwWrif+vlw5QE3iwFhPA=
+github.com/open-webtech/go-load-balancer v0.0.0-20240515225140-152d0399bc3b/go.mod h1:X0gaWdcB/BRU8Zk5C66kZgJ5hg6oF04HK6J+Xm76Yk0=
 github.com/open-webtech/go-reverse-proxy v0.0.0-20240516113637-ded59f158108 h1:68V11o2O9Ylhwik6Vr5CYaMV5aFCJSAmqk7sO0U+Db4=
 github.com/open-webtech/go-reverse-proxy v0.0.0-20240516113637-ded59f158108/go.mod h1:TszfMIkGBs3WsiDtwG1/7q8rpKBHs2VXLFvqfqjQR8Q=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
